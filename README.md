@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** with **2+ years** of professional experience building modern, scalable web applications. I specialize in the complete development lifecycle—from designing intuitive user interfaces to architecting robust backend systems.
+I'm a passionate **Full-Stack Developer** with **3+ years** of professional experience building modern, scalable web applications. I specialize in the complete development lifecycle—from designing intuitive user interfaces to architecting robust backend systems.
 
 My expertise lies in:
 - 🚀 Building high-performance **RESTful APIs** and **microservices** architectures
