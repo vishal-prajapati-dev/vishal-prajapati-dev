@@ -118,8 +118,8 @@ I'm committed to writing clean, maintainable code and staying current with indus
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-prajapati-dev&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-prajapati-dev&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -135,7 +135,7 @@ I'm always interested in discussing new projects, opportunities, or tech collabo
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height='40' title="Email"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/vishal-prajapati-dev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height='40' title="GitHub"/>
   </a>
 </p>
@@ -143,5 +143,5 @@ I'm always interested in discussing new projects, opportunities, or tech collabo
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Vishal Prajapati</a></i>
+  <i>⭐️ From <a href="https://github.com/vishal-prajapati-dev">Vishal Prajapati</a></i>
 </p>
