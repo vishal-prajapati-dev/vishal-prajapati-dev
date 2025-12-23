@@ -1,47 +1,147 @@
 <h1 align="center">Hello World! 👋 I'm Vishal Prajapati</h1>
 
-<h5 align="center">I'm an experienced and results-driven Node.js Developer with over 2 years of hands-on experience in building scalable, high-performance web applications. I specialize in developing robust backend services, RESTful APIs, and microservices using JavaScript and Node.js.
+<h3 align="center">Full-Stack Developer | Node.js Specialist | Scalable Solutions Architect</h3>
 
-I'm passionate about writing clean, efficient code and continuously improving performance and scalability. I have a strong working knowledge of MongoDB, PostgreSQL, and MySQL, with a focus on effective data modeling and optimization.</h5><br>
+<p align="center">
+  <a href="https://in.linkedin.com/in/vishalkumar-prajapati-436221336"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+</p>
 
-<h2 align="left">Some Facts About Me</h2>
+---
 
-<h2 align="left">Skillset</h2>
+## 👨‍💻 About Me
 
-<h3 align="left">Programming Languages:</h3>
+I'm a passionate **Full-Stack Developer** with **2+ years** of professional experience building modern, scalable web applications. I specialize in the complete development lifecycle—from designing intuitive user interfaces to architecting robust backend systems.
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/></p>
+My expertise lies in:
+- 🚀 Building high-performance **RESTful APIs** and **microservices** architectures
+- ⚡ Developing responsive, modern frontends with **React.js** and state management solutions
+- 🗄️ Designing efficient database schemas and optimizing queries across **SQL** and **NoSQL** systems
+- 🔧 Implementing **DevOps** practices with containerization and CI/CD pipelines
+- 📈 Performance optimization and code quality improvements
 
-<h3 align="left">Frontend Development:</h3>
+I'm committed to writing clean, maintainable code and staying current with industry best practices and emerging technologies.
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/redux.svg" width='40' height='40' title='redux'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='tailwind'/></p>
+---
 
-<h3 align="left">Backend Development:</h3>
+## 🛠️ Technical Skills
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='40' height='40' title='express'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/graphql.svg" width='40' height='40' title='graphql'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/rabbitmq.svg" width='40' height='40' title='rabbitmq'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nginx.svg" width='40' height='40' title='nginx'/> <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nestjs.svg" width='40' height='40' title='nestjs'/> </p>
+### **Programming Languages**
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='JavaScript'/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height='40' title='TypeScript'/>
+</p>
 
-<h3 align="left">Database Management:</h3>
+### **Frontend Development**
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='React.js'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/redux.svg" width='40' height='40' title='Redux'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='HTML5'/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height='40' title='CSS3'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/tailwind.svg" width='40' height='40' title='Tailwind CSS'/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height='40' title='Next.js'/>
+</p>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='mongodb'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='mysql'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/postgresql.svg" width='40' height='40' title='postgresql'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/redis.svg" width='40' height='40' title='redis'/></p>
+**Key Capabilities:**
+- Component-based architecture with React Hooks
+- State management (Redux, Context API)
+- Responsive design & mobile-first approach
+- Performance optimization (lazy loading, code splitting)
 
-<h3 align="left">Devops:</h3>
+### **Backend Development**
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='Node.js'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='40' height='40' title='Express.js'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nestjs.svg" width='40' height='40' title='NestJS'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/graphql.svg" width='40' height='40' title='GraphQL'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/rabbitmq.svg" width='40' height='40' title='RabbitMQ'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nginx.svg" width='40' height='40' title='Nginx'/>
+</p>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width='40' height='40' title='aws'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='docker'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/jenkins.svg" width='40' height='40' title='jenkins'/></p>
+**Key Capabilities:**
+- RESTful API design & development
+- Microservices architecture
+- Authentication & Authorization (JWT, OAuth)
+- Message queuing & event-driven architecture
+- WebSocket & real-time applications
 
-<h3 align="left">Backend as a Service (BaaS):</h3>
+### **Database Management**
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='MongoDB'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/postgresql.svg" width='40' height='40' title='PostgreSQL'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='MySQL'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/redis.svg" width='40' height='40' title='Redis'/>
+</p>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BaaS/firebase.svg" width='40' height='40' title='firebase'/></p>
+**Key Capabilities:**
+- Database design & optimization
+- Complex query optimization
+- Data modeling (relational & NoSQL)
+- Caching strategies with Redis
 
-<h3 align="left">Softwares:</h3>
+### **DevOps & Cloud**
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width='40' height='40' title='AWS'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='Docker'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/jenkins.svg" width='40' height='40' title='Jenkins'/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height='40' title='GitHub Actions'/>
+</p>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='postman'/></p>
+**Key Capabilities:**
+- Containerization with Docker
+- CI/CD pipeline setup
+- Cloud deployment (AWS EC2, S3, Lambda)
+- Server management & monitoring
 
-<h3 align="left">Others:</h3>
+### **Tools & Technologies**
+<p align='left'>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='Git'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/postman.svg" width='40' height='40' title='Postman'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='Linux'/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BaaS/firebase.svg" width='40' height='40' title='Firebase'/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height='40' title='VS Code'/>
+</p>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
+---
 
-<br><hr><br>
+## 💼 What I Bring to the Table
 
-<h2 align="left">Connect with Me</h2>
+- **Full-Stack Expertise**: End-to-end development from database to UI
+- **Performance-Focused**: Optimization of both frontend rendering and backend processing
+- **Scalable Solutions**: Experience with microservices and distributed systems
+- **Agile Mindset**: Collaborative team player with strong communication skills
+- **Problem Solver**: Analytical approach to debugging and system design
+- **Continuous Learner**: Always exploring new technologies and best practices
 
-<p align='left'><a href="https://in.linkedin.com/in/vishalkumar-prajapati-436221336"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a></p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in discussing new projects, opportunities, or tech collaborations!
+
+<p align='left'>
+  <a href="https://in.linkedin.com/in/vishalkumar-prajapati-436221336">
+    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height='40' title="Email"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height='40' title="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Vishal Prajapati</a></i>
+</p>
